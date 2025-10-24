@@ -40,7 +40,12 @@ We will not share your data with anyone, except in the following limited circums
 
 5. Data Retention
 
-We retain your data only for as long as you are an active client of our service. If you terminate your service, all associated API tokens and stored data will be securely deleted from our systems within 30 days.
+6. We retain your data only for as long as you are an active client of our service. If you terminate your service, all associated API tokens and stored data will be securely deleted from our systems within 30 days.
+
+How to Disconnect and Data Removal
+- You may revoke our app's permissions at any time from within your Intuit QuickBooks account settings.
+- You may also request the complete deletion of your data from our systems by terminating your service agreement with us.
+- To terminate your service and have all your stored data and API tokens permanently deleted, please email us directly at info@metricsbymooney.com. All data will be securely purged from our systems within 30 days of your request.
 
 6. Contact Us
 
