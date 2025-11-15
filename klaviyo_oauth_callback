@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Authorization Successful - MetricsByMooney</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; line-height: 1.6; }
+        .container { max-width: 600px; margin: 40px auto; padding: 30px; border: 1px solid #ccc; border-radius: 8px; background-color: #f9f9f9; }
+        h1 { color: #2c3e50; }
+        p { color: #34495e; }
+        strong { color: #c0392b; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Authorization Successful!</h1>
+        <p>You have successfully authorized Metrics By Mooney to access your <strong>Klaviyo data</strong> (read-only).</p>
+        <p><strong>IMPORTANT NEXT STEP:</strong></p>
+        <p>Please copy the <strong>ENTIRE URL</strong> from your browser's address bar right now.</p>
+        <p>Then, paste that full URL back into our video chat window.</p>
+        <p><em>(The URL will start with https://metricsbymooney.github.io/klaviyo_callback.html?code=...)</em></p>
+        <p>Thank you!</p>
+    </div>
+</body>
+</html>
